@@ -8,7 +8,7 @@ email: marshmallow4586@gmail.com
 homepage: https://blog.naver.com/kug4586  
 status:  
 \- student of Gachon University  
-\- Front-End reader of [AIIA](https://github.com/AIIA-GCU)
+\- Front-End reader of [AIIA](https://github.com/AIIA-GCU)  
 \- [solved.ac](https://solved.ac/) rank = Gold {3}
 
 ---
