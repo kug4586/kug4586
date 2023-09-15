@@ -25,7 +25,7 @@ status:
 - C/C++
 
 ### Team Project
-- [Muhan-Giljabi &nbspl; 무한길잡이](https://github.com/AIIA-GCU/Muhan-giljabi)
+- [Muhan-Giljabi &nbsp; 무한길잡이](https://github.com/AIIA-GCU/Muhan-giljabi)
 - [Mata-Gachon &nbsp; 가천대 실내 예약 시스템](https://github.com/AIIA-GCU/meta-gachon)
 
 ### My main Project
