@@ -30,7 +30,7 @@ status:
 
 - [Mata-Gachon &nbsp; 가천대 실내 예약 시스템](https://github.com/AIIA-GCU/meta-gachon)
 
-### My main Project
+### Presonal Project
 - [Gachon Promotion &nbsp; 가천대 홍보앱](https://github.com/kug4586/AIIA_AFAC)
 
 - [LimbusMiner &nbsp; 『림버스 컴퍼니』매크로](https://github.com/kug4586/LimbusMiner)
